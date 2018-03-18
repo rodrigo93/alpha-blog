@@ -20,10 +20,12 @@ Run the following command in the folder that you want to deploy this project:
 $ git clone git@github.com:rodrigo93/alpha-blog.git
 ```
 
-For development environments...
+For development environments, run the following command:
 
 ```sh
 $ bundle install --without production
+$ rake db:migrate
 ```
 
-More information will be added soon...
+# Check it running
+[Live demo](https://alpha-blog-marques.herokuapp.com/)
