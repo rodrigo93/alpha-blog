@@ -1,0 +1,14 @@
+# IntelliJ files
+.idea
+
+# Temporary files
+tmp/*
+.generators
+.rakeTasks
+.bundle/*
+
+# Log files
+log/*
+
+# SQLite3 files
+*.sqlite3
