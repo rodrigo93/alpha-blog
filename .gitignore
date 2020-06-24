@@ -3,6 +3,9 @@
 
 # Temporary files
 tmp/*
+.generators
+.rakeTasks
+.bundle/*
 
 # Log files
 log/*
