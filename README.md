@@ -6,7 +6,7 @@ Alpha Blog is an sample application for Ruby on Rails learners.
 
 | Package | Version |
 | ------ | ------ |
-| Ruby version | 2.4.1p111 |
+| Ruby version | 2.5.3 |
 | Rails version | 5.1.5 |
 | Production database | pg 0.20 |
 | Development database | sqlite3 |
