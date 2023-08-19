@@ -12,7 +12,7 @@ gem 'rails', '~> 5.2'
 gem "actionview", ">= 5.2.4.4"
 
 # Use Puma as the app server
-gem 'puma', '~> 4.3'
+gem 'puma', '~> 5.6'
 
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.4'
